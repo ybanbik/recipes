@@ -12,4 +12,4 @@ categories: entree
 
 ## Directions
 
-Toss the dough into a round shape.  Don't drop it.  Spread sauce.  Sprinkle cheese.  Bake.  Eat.
+Toss the dough into a round shapes.  Don't drop it.  Spread sauce.  Sprinkle cheese.  Bake.  Eat.
